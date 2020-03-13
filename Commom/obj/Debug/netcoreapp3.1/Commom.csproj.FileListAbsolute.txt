@@ -1,0 +1,8 @@
+C:\Users\900181\source\repos\SuperMarket\Commom\bin\Debug\netcoreapp3.1\Commom.deps.json
+C:\Users\900181\source\repos\SuperMarket\Commom\bin\Debug\netcoreapp3.1\Commom.dll
+C:\Users\900181\source\repos\SuperMarket\Commom\obj\Debug\netcoreapp3.1\Commom.AssemblyInfoInputs.cache
+C:\Users\900181\source\repos\SuperMarket\Commom\obj\Debug\netcoreapp3.1\Commom.AssemblyInfo.cs
+C:\Users\900181\source\repos\SuperMarket\Commom\obj\Debug\netcoreapp3.1\Commom.csprojAssemblyReference.cache
+C:\Users\900181\source\repos\SuperMarket\Commom\bin\Debug\netcoreapp3.1\Commom.pdb
+C:\Users\900181\source\repos\SuperMarket\Commom\obj\Debug\netcoreapp3.1\Commom.dll
+C:\Users\900181\source\repos\SuperMarket\Commom\obj\Debug\netcoreapp3.1\Commom.pdb
